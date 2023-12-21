@@ -4,17 +4,17 @@ Hi 👋 My name is Daniel
 Full Stack Web Developer
 ------------------------
 
-Sou um estudante apaixonado de desenvolvimento full-stack atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. Apesar de ainda estar concluindo minha graduação, meu entusiasmo pela programação me proporcionou dois anos de experiência muito boa nesse campo.
+👋 Olá, sou Daniel um estudante entusiasta por desenvolvimento full-stack, atualmente cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. Mesmo estando na fase final da graduação, minha paixão pela programação já me proporcionou dois anos de experiência significativa nesse campo.
 
-Diariamente, trabalho com uma variedade de tecnologias, tanto no front-end quanto no back-end, para criar projetos robustos e escaláveis. Minhas habilidades incluem experiência sólida em JavaScript, HTML, CSS, Node.js, Next.js e React. 
+Diariamente, trabalho com uma variedade de tecnologias, tanto no front-end quanto no back-end, para criar projetos robustos e escaláveis. Minhas habilidades abrangem uma sólida base em HTML, CSS, Next.js, React e Node.js, com proficiência em JavaScript e TypeScript, geralmente em conjunto com MySQL ou MongoDB.
 
-Além do desenvolvimento de software, sou fascinado pela resolução de problemas e pela arte de criar arquiteturas bem elaboradas e procuro ativamente desafios que ofereçam oportunidades de aprendizado contínuo e evolução. 
+Além do desenvolvimento de software, sou fascinado pela resolução de problemas e pela arte de criar arquiteturas bem elaboradas. Busco ativamente desafios que ofereçam oportunidades de aprendizado contínuo e evolução.
 
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web para expandir ainda mais meu conhecimento. Estou aberto a colaborações, discussões e novas oportunidades que contribuam para meu crescimento como desenvolvedor. 
+Atualmente, estou concentrado em aprimorar minhas habilidades em desenvolvimento web para expandir ainda mais meu conhecimento. Estou aberto a colaborações, discussões e novas oportunidades que contribuam para meu crescimento como desenvolvedor.
 
-Sinta-se à vontade para entrar em contato, estou animado com a possibilidade de aprender e criar coisas juntos.
+Sinta-se à vontade para entrar em contato. Estou empolgado com a possibilidade de aprender e criar coisas incríveis juntos! 
 
-🧠  Aprendendo constantemente Next.Js, Node.js and MySQL
+🧠 Aprendendo constantemente.
 
 ### Skills
 

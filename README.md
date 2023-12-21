@@ -4,7 +4,9 @@ Hi 👋 My name is Daniel
 Full Stack Web Developer
 ------------------------
 
-Olá, sou um estudante entusiasta de desenvolvimento full-stack, cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. Com dois anos de experiência, trabalho diariamente com tecnologias como HTML, CSS, Next.js, React, e Node.js, além de JavaScript e TypeScript, frequentemente associados a MySQL ou MongoDB. Além do desenvolvimento de software, sou fascinado pela resolução de problemas e pela criação de arquiteturas bem elaboradas. 
+Olá, sou um estudante entusiasta de desenvolvimento full-stack, cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. 
+
+Com dois anos de experiência, trabalho diariamente com tecnologias como HTML, CSS, Next.js, React, e Node.js, além de JavaScript e TypeScript, frequentemente associados a MySQL ou MongoDB. Além do desenvolvimento de software, sou fascinado pela resolução de problemas e pela criação de arquiteturas bem elaboradas. 
 
 Atualmente, concentro-me em aprimorar minhas habilidades em desenvolvimento web, buscando desafios que ofereçam oportunidades de aprendizado contínuo e evolução. 
 

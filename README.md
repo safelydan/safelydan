@@ -4,7 +4,7 @@ Hi 👋 My name is Daniel
 Full Stack Web Developer
 ------------------------
 
-👋 Olá, sou um estudante entusiasta de desenvolvimento full-stack, cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. Com dois anos de experiência, trabalho diariamente com tecnologias como HTML, CSS, Next.js, React, e Node.js, além de JavaScript e TypeScript, frequentemente associados a MySQL ou MongoDB. Além do desenvolvimento de software, sou fascinado pela resolução de problemas e pela criação de arquiteturas bem elaboradas. 
+Olá, sou um estudante entusiasta de desenvolvimento full-stack, cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. Com dois anos de experiência, trabalho diariamente com tecnologias como HTML, CSS, Next.js, React, e Node.js, além de JavaScript e TypeScript, frequentemente associados a MySQL ou MongoDB. Além do desenvolvimento de software, sou fascinado pela resolução de problemas e pela criação de arquiteturas bem elaboradas. 
 
 Atualmente, concentro-me em aprimorar minhas habilidades em desenvolvimento web, buscando desafios que ofereçam oportunidades de aprendizado contínuo e evolução. 
 
@@ -20,7 +20,26 @@ Estou aberto a colaborações e novas oportunidades, sinta-se à vontade para en
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/danieluau" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/safelydan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/daniel-araujo-leal-131191289/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+    <a href="https://www.github.com/danieluau" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <a href="http://www.instagram.com/safelydan" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </a>
+    <a href="https://www.linkedin.com/in/daniel-araujo-leal-131191289/" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        </picture>
+    </a>
+</p>
+
 
 ### Badges
 

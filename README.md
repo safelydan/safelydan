@@ -14,7 +14,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web 
 
 Sinta-se à vontade para entrar em contato, estou animado com a possibilidade de aprender e criar coisas juntos.
 
-* 🧠  Aprendendo constantemente Next.Js, Node.js and MySQL
+🧠  Aprendendo constantemente Next.Js, Node.js and MySQL
 
 ### Skills
 

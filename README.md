@@ -29,7 +29,7 @@ Estou aberto a colaborações e novas oportunidades, sinta-se à vontade para en
         </picture>
     </a>
     <a href="http://www.instagram.com/safelydan" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-white.svg" width="32" height="32" />
     </a>
     <a href="https://www.linkedin.com/in/daniel-araujo-leal-131191289/" target="_blank" rel="noreferrer">
         <picture>
@@ -39,6 +39,7 @@ Estou aberto a colaborações e novas oportunidades, sinta-se à vontade para en
         </picture>
     </a>
 </p>
+
 
 
 ### Badges

@@ -12,7 +12,7 @@ Currently, I am focused on enhancing my skills in full-stack web development, se
 I am always open to collaborations and new opportunities; feel free to get in touch.
 
 ## Most used technologies
-<div style="display: flex; gap: 2rem"><br>
+<div style="display: flex; gap: 2rem">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -28,7 +28,6 @@ I am always open to collaborations and new opportunities; feel free to get in to
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </div>
-<br>
 
 ## Badges
 <div style="border:1px solid #fff;">

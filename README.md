@@ -11,6 +11,11 @@ Currently, I am focused on enhancing my skills in full-stack web development, se
 
 I am always open to collaborations and new opportunities; feel free to get in touch.
 
+## Badges
+<div style="border:1px solid #fff;">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieluau&layout=compact&theme=radical" alt="Languages"/>
+</div>
+
 ## Most used technologies
 <div style="display: flex; gap: 2rem"><br>
 
@@ -51,7 +56,3 @@ I am always open to collaborations and new opportunities; feel free to get in to
     </a>
 </p>
 
-
-### Badges
-
-<a href="https://github.com/danieluau" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieluau&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

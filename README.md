@@ -3,13 +3,13 @@
 Full Stack Developer
 ------------------------
 
-Olá, sou um estudante entusiasta de desenvolvimento full-stack, cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. 
+Hello, I am an enthusiastic full-stack development student currently pursuing a degree in Systems Analysis and Development at the Federal Institute of Piauí.
 
-Com dois anos de experiência, trabalho diariamente com tecnologias como HTML, CSS, Next.js, React, e Node.js, além de JavaScript e TypeScript, frequentemente associados a MySQL ou MongoDB. Além do desenvolvimento de software, sou fascinado pela resolução de problemas e pela criação de arquiteturas bem elaboradas. 
+With two years of experience, I work daily with technologies such as HTML, CSS, Next.js, React, and Node.js, along with JavaScript and TypeScript, often associated with MySQL or MongoDB. In addition to software development, I am fascinated by problem-solving and crafting well-designed architectures.
 
-Atualmente, concentro-me em aprimorar minhas habilidades em desenvolvimento web full stack, buscando desafios que ofereçam oportunidades de aprendizado contínuo e evolução. 
+Currently, I am focused on enhancing my skills in full-stack web development, seeking challenges that provide opportunities for continuous learning and growth.
 
-Estou sempre aberto a colaborações e novas oportunidades, sinta-se à vontade para entrar em contato. 
+I am always open to collaborations and new opportunities; feel free to get in touch.
 
 ## Most used technologies
 <div style="display: flex; gap: 2rem;"><br>

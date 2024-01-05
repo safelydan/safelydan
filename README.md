@@ -1,17 +1,14 @@
 # Hello, I'm Daniel Araujo 👾
-=======================
 
 Full Stack Developer
-=======================
 
 Olá, sou um estudante entusiasta de desenvolvimento full-stack, cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. 
 
 Com dois anos de experiência, trabalho diariamente com tecnologias como HTML, CSS, Next.js, React, e Node.js, além de JavaScript e TypeScript, frequentemente associados a MySQL ou MongoDB. Além do desenvolvimento de software, sou fascinado pela resolução de problemas e pela criação de arquiteturas bem elaboradas. 
 
-Atualmente, concentro-me em aprimorar minhas habilidades em desenvolvimento web, buscando desafios que ofereçam oportunidades de aprendizado contínuo e evolução. 
+Atualmente, concentro-me em aprimorar minhas habilidades em desenvolvimento web full stack, buscando desafios que ofereçam oportunidades de aprendizado contínuo e evolução. 
 
-Estou aberto a colaborações e novas oportunidades, sinta-se à vontade para entrar em contato. Estou empolgado com a possibilidade de aprender e criar coisas incríveis juntos! 🧠 Aprendendo constantemente.
-
+Estou sempre aberto a colaborações e novas oportunidades, sinta-se à vontade para entrar em contato. 
 
 ## Most used technologies
 <div style="display: flex; gap: 2rem;"><br>

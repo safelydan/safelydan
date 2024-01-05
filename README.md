@@ -1,6 +1,7 @@
 # Hello, I'm Daniel Araujo 👾
 
 Full Stack Developer
+------------------------
 
 Olá, sou um estudante entusiasta de desenvolvimento full-stack, cursando Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí. 
 

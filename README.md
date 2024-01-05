@@ -29,7 +29,6 @@ I am always open to collaborations and new opportunities; feel free to get in to
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </div>
 
-## Badges
 <div style="border:1px solid #fff;">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieluau&layout=compact&theme=radical" alt="Languages"/>
 </div>

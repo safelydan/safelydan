@@ -31,7 +31,7 @@ I am always open to collaborations and new opportunities; feel free to get in to
 
 <br>
 <div style="border:1px solid #fff;">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieluau&layout=compact&theme=radical" alt="Languages"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=safelydan&layout=compact&theme=radical" alt="Languages"/>
 </div>
 
 ### Socials

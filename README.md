@@ -5,7 +5,7 @@ Full Stack Developer
 
 Hello, I am an enthusiastic full-stack development student currently pursuing a degree in Systems Analysis and Development at the Federal Institute of Piauí.
 
-With two years of experience, I work daily with technologies such as HTML, CSS, Next.js, React, and Node.js, along with JavaScript and TypeScript, often associated with MySQL or MongoDB. In addition to software development, I am fascinated by problem-solving and crafting well-designed architectures.
+With two years of experience, I work daily with technologies such as HTML, CSS, Next.js, React, and Node.js, along with JavaScript and TypeScript, often associated with PostgreSQL or MongoDB. In addition to software development, I am fascinated by problem-solving and crafting well-designed architectures.
 
 Currently, I am focused on enhancing my skills in full-stack web development, seeking challenges that provide opportunities for continuous learning and growth.
 

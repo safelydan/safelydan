@@ -25,7 +25,8 @@ Most used technologies
 <div style="border:1px solid #fff;">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=safelydan&layout=compact&theme=radical" alt="Languages"/>
 </div>
-Socials
+
+### Socials
   <a href="https://www.linkedin.com/in/daniel-araujo-leal-131191289/" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
